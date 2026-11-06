@@ -2,7 +2,7 @@
 
 Este es el repositorio de trabajo y experimentación de mi Trabajo de Fin de Máster (TFM). Aquí se recogen todas las pruebas, análisis y ejecuciones prácticas que sustentan la memoria del proyecto.
 
-## Relación con el repositorio público
+## Relación con el otro repositorio 
 
 Como parte fundamental de este TFM, he desarrollado una librería llamada **GlassBox_ViT**. Esa librería es de código abierto y tiene su propio repositorio con su código fuente, arquitectura y ejemplos de uso limpios.
 
